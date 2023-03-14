@@ -15,3 +15,10 @@ A tabela a seguir descreve a relação das classes criadas.
 | Mídia    |   (sem herança)| 
 | Artista  | (sem herança)   |
 | Playlist   | (sem herança) |
+
+
+ferramentas utilizadas: 
+<p align="center">
+<img src='https://i.postimg.cc/Tp0cZBCs/java-original-wordmark-logo-icon-146459.png' border='0' alt='java-original-wordmark-logo-icon-146459' width="100px"/>
+<img src='https://i.postimg.cc/Z9sb2Ydq/kisspng-intellij-idea-jetbrains-integrated-development-env-5b9a70df9dd6c3-3468850615368480956465-rem.png' border='0' alt='kisspng-intellij-idea-jetbrains-integrated-development-env-5b9a70df9dd6c3-3468850615368480956465-rem' width="100px"/>
+</p>
