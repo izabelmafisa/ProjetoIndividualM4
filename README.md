@@ -12,5 +12,6 @@ A tabela a seguir descreve a relação das classes criadas.
 | Música      | Mídia           | 
 | Ator        | Artista         | 
 | Músico      | Artista         | 
-| Mídia       |   (sem herança) | 
-| Artista     | (sem herença)   |
+|       |   Mídia| 
+|      | Artista   |
+|      | Playlist |
