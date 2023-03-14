@@ -4,17 +4,12 @@
 ### O que é para ser feito? O projeto é para desenvolver em JAVA, onde é para criar classes e objetos e seus Getters e Setters.
 #### As classes implementadas são: Mídia, Música, Filme, Musico, Ator, Playlist e Biblioteca de Mídia.
 
+
 |classe mãe|classe filha|
 -------------------------
 |Artista   |   Ator     |
----------------
 |Artista   |  Musico    |
--------------------
 |Mídia     |   Filme    |
-----------------
 | Mídia    | Música     |
--------------------
 | Playlist |(sem herança)|
----------------------------
 | biblioteca de Mídia | (sem herança)|
-----------------------------------------
