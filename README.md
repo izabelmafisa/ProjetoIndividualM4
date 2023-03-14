@@ -6,7 +6,7 @@
 #### As classes implementadas são: Mídia, Música, Filme, Musico, Ator, Playlist e Biblioteca de Mídia.
 
 
-|classe mãe|classe filha|
+| classe mãe | classe filha |
 -------------------------
 |Artista   |   Ator     |
 ------------------------
