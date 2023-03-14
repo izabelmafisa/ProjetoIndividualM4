@@ -6,12 +6,12 @@
 #### As classes implementadas são: Mídia, Música, Filme, Musico, Ator, Playlist e Biblioteca de Mídia.
 A tabela a seguir descreve a relação das classes criadas.
 
-| Classe  Filha   | Classe Mãe     |
+| Classe  Mãe   | Classe Filha     |
 | :---------- | :---------      | 
-| Filmes      |Mídia            |
-| Música      | Mídia           | 
-| Ator        | Artista         | 
-| Músico      | Artista         | 
-|       |   Mídia| 
-|      | Artista   |
-|      | Playlist |
+| Mídia      |  Filme        |
+| Mídia     | Música          | 
+| Artista        | Ator         | 
+| Artista      | Músico         | 
+| Mídia    |   (sem herança)| 
+| Artista  | (sem herança)   |
+| Playlist   | (sem herança) |
