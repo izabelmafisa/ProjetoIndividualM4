@@ -5,15 +5,15 @@
 #### As classes implementadas são: Mídia, Música, Filme, Musico, Ator, Playlist e Biblioteca de Mídia.
 |classe mãe|classe filha|
 -------------------------
-|Artista | Ator|
+|Artista   |   Ator     |
 ---------------
-|Artista | Musico |
+|Artista   |  Musico    |
 -------------------
-|Mídia | Filme|
+|Mídia     |   Filme    |
 ----------------
-| Mídia | Música |
+| Mídia    | Música     |
 -------------------
-|Playlist | (sem herança)|
+| Playlist |(sem herança)|
 ---------------------------
 | biblioteca de Mídia | (sem herança)|
 ----------------------------------------
