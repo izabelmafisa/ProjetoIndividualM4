@@ -6,8 +6,14 @@
 |classe mãe|classe filha|
 -------------------------
 |Artista | Ator|
+---------------
 |Artista | Musico |
+-------------------
 |Mídia | Filme|
+----------------
 | Mídia | Música |
+-------------------
 |Playlist | (sem herança)|
+---------------------------
 | biblioteca de Mídia | (sem herança)|
+----------------------------------------
