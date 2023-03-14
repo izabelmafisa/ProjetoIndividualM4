@@ -7,8 +7,8 @@
 A tabela a seguir descreve a relação das classes criadas.
 
 
-||| classe mãe | classe filha |||
--------------------------
+| classe mãe | classe filha |
+-----------|------------
 |Artista   |   Ator     |
 ------------------------
 |Artista   |  Musico    |
